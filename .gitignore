@@ -1,11 +1,19 @@
+# I dunno
 pom.xml
 pom.xml.asc
+
+# Packageded stuff
 *jar
 /lib/
 /classes/
 /target/
 /checkouts/
+
+# Leiningen
 .lein-deps-sum
 .lein-repl-history
 .lein-plugins/
 .lein-failures
+
+# OS X
+.DS_Store
