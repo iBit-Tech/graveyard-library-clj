@@ -17,3 +17,6 @@ pom.xml.asc
 
 # OS X
 .DS_Store
+
+# borring files
+graveyard-library-clj/.settings/ccw.repl.cmdhistory.prefs
